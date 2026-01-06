@@ -17,3 +17,4 @@ python -m http.server 8000
 
 ## Deploy
 Static hosting-ready. Push to GitHub and serve via GitHub Pages if desired.
+# Community
